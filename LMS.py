@@ -5,7 +5,7 @@ class Library:
 
       def displayAvailablebooks(self):
                    print("The books we have in our library are as follows:")
-                   print("================================")
+                   print("==== === === === === === === ===")
                    for book in self.availablebooks:
                          print(book)
       def lendBook(self,requestedBook):
